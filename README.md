@@ -14,4 +14,6 @@ The database is not created with an ORM, so you will have to create a hand accor
 
 I developed it in Linux environment, with MySQL ODBC for Linux
 
-I hope it helps! : +1:
+I hope it helps!
+
+You can also check the pharmacy system made in C# with SQL Server and EntityFramework [here](https://github.com/maximainero/sistema-farmacia-c.git)
