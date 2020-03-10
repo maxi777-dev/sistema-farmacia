@@ -14,4 +14,4 @@ The database is not created with an ORM, so you will have to create a hand accor
 
 I developed it in Linux environment, with MySQL ODBC for Linux
 
-I hope it helps! : #+1:#
+I hope it helps! : +1:
